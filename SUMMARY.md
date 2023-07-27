@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bolts](README.md)
+* [Toepassingen op Nuts (Bolts)](README.md)
 
 ## eOverdracht
 
